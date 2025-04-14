@@ -13,6 +13,14 @@
 
 ---
 
+## 🛠 Tools & Technologies
+
+- **Tools** (Explored): Jira, Trello, Miro
+- **Version Control**: Git, GitHub
+- **Other**: VS Code, vim.
+
+---
+
 ## 🚀 Tech I'm learning & using
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
