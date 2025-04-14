@@ -11,8 +11,6 @@
 - I care deeply about **clean code principles**, **SOLID**, **clean architecture**, **testing**, and **continuous integration**.
 - I constantly challenge myself and actively seek constructive feedback to grow as a developer.
 
-> _"Code is not just about making things work – it's about making things right, and making them last."_ ⚙️
-
 ---
 
 ## 🚀 Tech I'm learning & using
