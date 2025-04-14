@@ -1,7 +1,7 @@
 # Hey there, I'm Thomas Chobert 👋
 
 🎓 Currently a student at **École 42 Paris**, after completing a Master’s degree in **History** at the **University of Paris – Sorbonne**.  
-💻 Passionate about programming and always eager to improve, reflect, and write clean, maintainable code.
+💻 Always eager to improve, reflect, and write clean, maintainable code.
 
 ## 👨‍💻 About Me
 
