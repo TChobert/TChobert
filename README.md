@@ -28,8 +28,10 @@
 
 ## 📊 GitHub Stats
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=TChobert&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TChobert&layout=compact&theme=radical)
+![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TChobert&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TChobert&layout=compact&theme=tokyonight)
+
 
 ---
 
