@@ -5,12 +5,13 @@
 
 ## 👨‍💻 About Me
 
-- I started coding in C through the hands-on projects at 42, as well as through personal experimentation.
+- I started coding in **C** through the hands-on projects at **42**, as well as through personal experimentation.
 - I'm now diving into **C++** and exploring the world of **object-oriented programming**, which I find fascinating.
 - On top of that, I'm currently learning **HTML**, **CSS**, and **JavaScript** to build solid foundations in web development.
 - I care deeply about **clean code principles**, **SOLID**, **clean architecture**, **testing**, and **continuous integration**.
-- I constantly challenge myself and actively seek constructive feedback to grow as a developer.
-- I’m also genuinely passionate about learning — I love diving into new concepts, ideas, and subjects, and figuring things out on my own!
+- I constantly challenge myself and actively seek **constructive feedback** to grow as a developer.
+
+**I’m also genuinely passionate about learning — I love diving into new concepts, ideas, and subjects, and figuring things out on my own!**
 
 ---
 
