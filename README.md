@@ -43,7 +43,7 @@
 
 ## 📫 Get in touch
 
-- Email: `thomaschobert00@gmail.com`
+- Email: `tchobert@student.42.fr`
 
 ---
 
