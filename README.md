@@ -1,9 +1,9 @@
-# Hey there, I'm Thomas Chobert 👋
+# Hey there, I'm Thomas Chobert
 
-🎓 Currently a student at **École 42 Paris**, after completing a Master’s degree in **History** at the **University of Paris – Sorbonne**.  
-💻 Always eager to improve, reflect, and write clean, maintainable code.
+- Currently a student at **École 42 Paris**, after completing a Master’s degree in **History** at the **University of Paris – Sorbonne**.  
+- Always eager to improve, reflect, and write clean, maintainable code.
 
-## 👨‍💻 About Me
+## About Me
 
 - I started coding in **C** through the hands-on projects at **42**, as well as through personal experimentation.
 - I'm now diving into **C++** and exploring the world of **object-oriented programming**, which I find fascinating.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Tools** (Explored): Jira, Trello, Miro
 - **Version Control**: Git, GitHub
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Tech I'm learning & using
+## Tech I'm learning & using
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -35,13 +35,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TChobert&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 - Email: `tchobert@student.42.fr`
 
